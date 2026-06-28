@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(194, 114, 158);
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 800;
+  padding: 10px;
+}
+p {
+  background-color: white;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 50px;
+}
+button {
+  display: block;
+  margin-bottom: 10px;
+  border: 2px solid rgb(49, 173, 49);
+  border-radius: 5px;
+  background-color: rgb(219, 248, 178);
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+}
+img {
+  display: block;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 2px 6px 15px rgba(0, 0, 0, 0.5);
+  margin-bottom: 50px;
+}
