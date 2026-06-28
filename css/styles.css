@@ -14,9 +14,10 @@ p {
   background-color: white;
   border: 1px solid transparent;
   border-radius: 8px;
-  padding: 10px;
+  padding: 20px;
   margin: 50px;
 }
+
 button {
   display: inline;
   margin-bottom: 10px;
@@ -24,6 +25,9 @@ button {
   border-radius: 5px;
   background-color: rgb(219, 248, 178);
   padding: 10px;
+}
+.buttons-block {
+  margin-left: 50px;
 }
 a {
   text-decoration: none;
