@@ -19,8 +19,6 @@ p {
 }
 
 button {
-  display: inline;
-  margin-bottom: 10px;
   border: 2px solid rgb(49, 173, 49);
   border-radius: 5px;
   background-color: rgb(219, 248, 178);
@@ -28,6 +26,9 @@ button {
 }
 .buttons-block {
   margin-left: 50px;
+  display: flex;
+  margin: 0 auto;
+  gap: 15px;
 }
 a {
   text-decoration: none;
